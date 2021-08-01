@@ -14,13 +14,13 @@ Open raspberry pi configuration.
 sudo raspi-config
 ```
 
-raspi-config / interfacing / options / I2C Enabled 
+    raspi-config / interfacing / options / I2C Enabled 
 
 Check whether the configuration of I2C is enabled. 
 
 ## Second 
 
-### Install I2C tools 
+### Install I2C 
 
 Install I2C tools. 
 
@@ -38,9 +38,9 @@ SHT31-D for raspberry pi has the address 0x44.
 i2cdetect -y 1
 ```
 
-## third 
+## Third 
 
-### Install SHT31-D library 
+### Install SHT31-D 
 
 Install the library for SHT31-D. 
 
