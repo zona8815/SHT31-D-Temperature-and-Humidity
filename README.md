@@ -2,14 +2,14 @@
 
 ## first - configuration 
 
-Connect VIN(1), GND(6), SCL(5), SDA(3) to raspberry pi. 
+Connect VIN(1), GND(6), SCL(5), SDA(3) to raspberry pi. \n
 Open raspberry pi configuration. 
 
 ```
 sudo raspi-config
 ```
 
-raspi-config / interfacing / options / I2C Enabled
+raspi-config / interfacing / options / I2C Enabled \n
 Check whether the configuration of I2C is enabled. 
 
 ## second - I2C tools 
