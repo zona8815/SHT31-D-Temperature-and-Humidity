@@ -14,9 +14,9 @@ Open raspberry pi configuration.
 sudo raspi-config
 ```
 
-    raspi-config / interfacing / options / I2C Enabled 
-
 Check whether the configuration of I2C is enabled. 
+
+    raspi-config \ interfacing \ options \ I2C Enabled 
 
 ## Second 
 
