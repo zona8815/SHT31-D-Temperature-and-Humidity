@@ -1,6 +1,6 @@
 # Google Hardware Product Sprint－2021 APAC TW HPS
 
-> Main Repository`GoogleHPS <https://github.com/darrenyaoyao/GoogleHPS>`__
+> Main Repository: GoogleHPS <https://github.com/darrenyaoyao/GoogleHPS>
 
 # For temperature and humidity (SHT31-D) 
 
